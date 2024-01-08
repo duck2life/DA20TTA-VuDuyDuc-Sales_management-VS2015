@@ -1,1 +1,3 @@
-# DA20TTA-VuDuyDuc-Sales_management-VS2015
+# cn-da20tta-vuduyduc-sale
+Email: blacklmht@gmail.com
+SDT: 0986079493
